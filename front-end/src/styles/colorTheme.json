@@ -1,0 +1,7 @@
+{
+    "primary": "gray",
+    "secondary": "blue",
+    "header": "gray.500",
+    "hover": "blue.400",
+    "background": "white"
+}
